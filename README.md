@@ -1,13 +1,13 @@
 # url-parser
 AWS Lambda funtion to Parse an Input URL to get Metadata
 
-Base URL :
+## Base URL :
 https://gu2m5chp2i.execute-api.us-east-1.amazonaws.com/dev/url-parse
 
-Request Method: 
+## Request Method: 
 POST
 
-Request Body:
+## Request Body:
 {
     "url": "url to scrape"
 }
